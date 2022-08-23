@@ -380,7 +380,7 @@ img.rightarrow {
     height: 80vh;
   }
   .products .card {
-    margin-left: 1rem;
+    margin-left: 0rem;
   }
 
   .row.card_product {
